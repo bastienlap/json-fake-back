@@ -1,0 +1,17 @@
+{
+  "DGI_Ref_Contraintes": [
+    {
+      "id": 1,
+      "TypeObjetParent": "Fonction 1",
+      "CodeParent": "F1",
+      "TypeObjetEnfant": "Element 1",
+	  "CodeEnfant": "E1"
+    },
+    {
+      "id": 2,
+      "TypeObjet": "Element",
+      "Code": "E1",
+      "Description": "Element 1"
+    }
+  ]
+}

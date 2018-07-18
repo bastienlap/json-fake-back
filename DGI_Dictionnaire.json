@@ -1,0 +1,19 @@
+{
+  "DGI_Dictionnaire": [
+    {
+      "id": 1,
+      "point": "DC13548_GEN_E_SER4-_ATI_001.M",
+      "description": "Point 1"
+    },
+    {
+      "id": 2,
+      "point": "DC13548_GEN_E_SER4-_ATI_002.M",
+      "description": "Point 2"
+    },
+    {
+      "point": "DC13548_GEN_E_SER4-_ATI_003.M",
+      "description": "Point 3",
+      "id": 3
+    }
+  ]
+}

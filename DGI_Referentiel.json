@@ -1,0 +1,130 @@
+{
+  "DGI_Referentiel": [
+    {
+      "id": 1,
+      "TypeObjet": "Fonction",
+      "Code": "F1",
+      "Description": "Fonction 1"
+    },
+    {
+      "id": 3,
+      "TypeObjet": "Element",
+      "Code": "E1",
+      "Description": "Element 1"
+    },
+    {
+      "TypeObjet": "Element",
+      "Code": "E2",
+      "Description": "Element 2",
+      "id": 4
+    },
+    {
+      "TypeObjet": "Fonction",
+      "Code": "F2",
+      "Description": "Fonction 2",
+      "id": 5
+    },
+    {
+      "TypeObjet": "Fonction",
+      "Code": "F3",
+      "Description": "Fonction 3",
+      "id": 6
+    },
+    {
+      "TypeObjet": "Localisation",
+      "Code": "L1",
+      "Description": "Loca 1",
+      "id": 9
+    },
+    {
+      "Code": "yy",
+      "Description": "tet",
+      "TypeObjet": "Localisation",
+      "id": 11
+    },
+    {
+      "TypeObjet": "Localisation",
+      "Code": "L2",
+      "Description": "Loca 2",
+      "id": 12
+    },
+    {
+      "Code": "E3",
+      "Description": "Element 3",
+      "TypeObjet": "Elément",
+      "id": 13
+    },
+    {
+      "Code": "C1",
+      "Description": "Complément 1",
+      "TypeObjet": "Complément",
+      "id": 14
+    },
+    {
+      "Code": "C2",
+      "Description": "Complément 2",
+      "TypeObjet": "Complément",
+      "id": 15
+    },
+    {
+      "Code": "Fx1",
+      "Description": "Flux 1 Poto",
+      "TypeObjet": "Flux",
+      "id": 16
+    },
+    {
+      "Code": "fx2",
+      "Description": "Flux 2",
+      "TypeObjet": "Flux",
+      "id": 17
+    },
+    {
+      "Code": "S1",
+      "Description": "Système 1",
+      "TypeObjet": "Système",
+      "id": 18
+    },
+    {
+      "Code": "S2",
+      "Description": "Système 2",
+      "TypeObjet": "Système",
+      "id": 19
+    },
+    {
+      "Code": "G1",
+      "Description": "Grandeur 1",
+      "TypeObjet": "Grandeur",
+      "id": 20
+    },
+    {
+      "Code": "G2",
+      "Description": "Grandeur 2",
+      "TypeObjet": "Grandeur",
+      "id": 21
+    },
+    {
+      "Code": "IO1",
+      "Description": "Instrum 1",
+      "TypeObjet": "Instrum./ Organe",
+      "id": 22
+    },
+    {
+      "Code": "IO2",
+      "Description": "Instrum 2",
+      "TypeObjet": "Instrum./ Organe",
+      "id": 23
+    },
+    {
+      "Code": "A1",
+      "Description": "Attribut 1",
+      "TypeObjet": "Attribut",
+      "id": 24
+    },
+    {
+      "Code": "A2",
+      "Description": "Attribut 2",
+      "TypeObjet": "Attribut",
+      "id": 25
+    }
+  ]
+}
